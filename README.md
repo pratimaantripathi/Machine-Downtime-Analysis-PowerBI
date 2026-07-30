@@ -56,7 +56,7 @@ The main objectives of this project are:
 
 ---
 
-##  Business Questions and Answers
+##  Questions and Answers
 
 ### 1. What is the total machine downtime?
 
