@@ -1,6 +1,6 @@
 # Machine Downtime Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes machine downtime and maintenance data using Power BI.
 
@@ -8,7 +8,7 @@ The dashboard helps identify high-downtime machines, major downtime reasons, rep
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -22,7 +22,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Power BI Desktop
 - PostgreSQL
@@ -33,7 +33,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### Page 1 – Machine Downtime Overview
 
@@ -56,7 +56,7 @@ The main objectives of this project are:
 
 ---
 
-## ❓ Business Questions and Answers
+##  Business Questions and Answers
 
 ### 1. What is the total machine downtime?
 
@@ -95,7 +95,7 @@ The Technician filter allows users to analyze machine downtime and maintenance i
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Machines with high downtime can be prioritized for maintenance.
 - Major downtime causes can be identified and reduced.
@@ -106,7 +106,7 @@ The Technician filter allows users to analyze machine downtime and maintenance i
 
 ---
 
-## 💼 Business Value
+##  Business Value
 
 This dashboard can help organizations:
 
@@ -119,7 +119,7 @@ This dashboard can help organizations:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 - `Machine_Downtime_Dashboard.pbix` – Power BI dashboard file
 - `machine_downtime.csv` – Dataset
@@ -128,7 +128,7 @@ This dashboard can help organizations:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Pratimaan Tripathi**  
 Final-Year Mechanical Engineering Student  
