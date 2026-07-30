@@ -50,9 +50,8 @@ The main objectives of this project are:
 ### Page 2 – Detailed Analysis
 
 - Repair Cost by Machine
-- Downtime Trend Analysis
+- Downtime Trend Over Time
 - Shift-wise Downtime Analysis
-- Technician-wise Downtime Analysis
 
 ---
 
