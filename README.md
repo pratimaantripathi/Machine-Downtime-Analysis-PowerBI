@@ -123,7 +123,13 @@ This dashboard can help organizations:
 - `Machine_Downtime_Dashboard.pbix` – Power BI dashboard file
 - `machine_downtime.csv` – Dataset
 - `machine_downtime_queries.sql` – SQL analysis queries
-- Dashboard screenshots
+- ## Dashboard Preview
+
+### Page 1 – Machine Downtime Overview
+![Dashboard Page 1](Images/dashboard_page1.png)
+
+### Page 2 – Detailed Analysis
+![Dashboard Page 2](Images/dashboard_page2.png)
 
 ---
 
