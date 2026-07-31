@@ -123,7 +123,8 @@ This dashboard can help organizations:
 - `Machine_Downtime_Dashboard.pbix` – Power BI dashboard file
 - `machine_downtime.csv` – Dataset
 - `machine_downtime_queries.sql` – SQL analysis queries
-- ## Dashboard Preview
+
+## Dashboard Preview
 
 ### Page 1 – Machine Downtime Overview
 ![Dashboard Page 1](Images/dashboard_page1.png)
@@ -133,8 +134,8 @@ This dashboard can help organizations:
 
 ---
 
-##  Author
+## Author
 
-**Pratimaan Tripathi**  
-Final-Year Mechanical Engineering Student  
+**Pratimaan Tripathi**
+Final-Year Mechanical Engineering Student
 UIET, Panjab University, Chandigarh
