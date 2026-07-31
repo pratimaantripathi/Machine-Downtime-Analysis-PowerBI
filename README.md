@@ -1,4 +1,4 @@
-# Machine Downtime Analysis Dashboard | Power BI
+# Machine Downtime Analysis Dashboard
 
 ##  Project Overview
 
