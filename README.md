@@ -126,8 +126,7 @@ This dashboard can help organizations:
 ## Dashboard Preview
 
 ### Page 1 – Machine Downtime Overview
-![Page 1 - Machine Downtime Overview](Images/Screenshot 2026-08-01 144648.png)
-
+![Screenshot](Screenshot%202026-08-01%20144648.png)
 
 ---
 
