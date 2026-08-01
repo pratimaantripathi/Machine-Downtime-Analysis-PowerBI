@@ -46,9 +46,6 @@ The main objectives of this project are:
 - Interactive Machine Filter
 - Interactive Technician Filter
 - Interactive Shift Filter
-
-### Page 2 – Detailed Analysis
-
 - Repair Cost by Machine
 - Downtime Trend Over Time
 - Shift-wise Downtime Analysis
