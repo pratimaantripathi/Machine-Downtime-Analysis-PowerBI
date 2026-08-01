@@ -127,10 +127,10 @@ This dashboard can help organizations:
 ## Dashboard Preview
 
 ### Page 1 – Machine Downtime Overview
-![Dashboard Page 1](Images/dashboard_page1.png)
+
 
 ### Page 2 – Detailed Analysis
-![Dashboard Page 2](Images/dashboard_page2.png)
+
 
 ---
 
