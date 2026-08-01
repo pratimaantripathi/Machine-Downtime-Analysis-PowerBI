@@ -126,7 +126,7 @@ This dashboard can help organizations:
 ## Dashboard Preview
 
 ### Page 1 – Machine Downtime Overview
-![Screenshot](Screenshot%202026-08-01%20144648.png)
+![Netflix Dashboard](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/blob/main/Screenshot%202026-08-01%20171714.png)
 
 ---
 
