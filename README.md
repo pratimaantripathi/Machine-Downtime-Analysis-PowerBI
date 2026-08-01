@@ -125,7 +125,7 @@ This dashboard can help organizations:
 
 ## Dashboard Preview
 
-### Page 1 – Machine Downtime Overview
+### Machine Downtime Dashboard Overview
 ![Dashboard Dark Theme](Screenshot%202026-08-01%20171714.png)
 
 ---
